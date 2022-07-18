@@ -1,0 +1,17 @@
+# Get data from txt
+
+egmKeys = ["CompleteSurface", "regm1", "regm1b", "regm1c","regm2", "regm2b", "regm5", "regm6", "regm6b", "regm7", "regm7b","regm8b", "regm8c"]
+files = [r"RegmaglyptsData1/CompleteSurface.txt", r"RegmaglyptsData1/Regmaglypt1.txt", r"RegmaglyptsData1/Regmaglypt1b.txt",
+         r"RegmaglyptsData1/Regmaglypt1c.txt", r"RegmaglyptsData1/Regmaglypt2.txt",
+         r"RegmaglyptsData1/Regmaglypt2b.txt", r"RegmaglyptsData1/Regmaglypt5.txt", r"RegmaglyptsData1/Regmaglypt6.txt",
+         r"RegmaglyptsData1/Regmaglypt6b.txt", r"RegmaglyptsData1/Regmaglypt7.txt", r"RegmaglyptsData1/Regmaglypt7b.txt",
+         r"RegmaglyptsData1/Regmaglypt8b.txt", r"RegmaglyptsData1/Regmaglypt8c.txt"]  # automatise this part
+
+regmKeys = ["RegA", "RegB", "RegC"]
+files = [r"RegmaglyptsData2/RegA.txt", r"RegmaglyptsData2/RegB.txt", r"RegmaglyptsData2/RegC.txt"]
+
+# Previous delineation
+
+##  Delineated nicely: 2b, 6b, 8c, 1b, 1c
+
+## Ask for direct feedback: 7, 5
